@@ -1,0 +1,14 @@
+Host: unite.nike.com
+x-kpsdk-ct: 0QSG0Mu4SHwgorKttm2BJOTHfiPxGbMubjaytmBwvyHKHh0nNZDxyNCYJVL8UCluL39iztlseoDLa7vbIhERiT8UfPAwt8cY3wAAeKFI3ZaduAJFf3JVFiyLti0DDXamdHjCP2rTeLPtRQrPcstgtlNVP
+x-kpsdk-cd: {"workTime":1622478502517,"id":"a02f1415b377255b6d49f0549f4cecda","answers":[20,2]}
+Accept: */*
+Accept-Language: fr-fr
+Accept-Encoding: gzip, deflate, br
+X-Sec-Clge-Req-Type: ajax
+Content-Type: application/json
+Origin: https://unite.nike.com
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+Referer: https://unite.nike.com/s3/unite/mobile.html?iOSSDKVersion=4.0.1&clientId=0Zrbh9wN0CwjeczJAoKvc8US44Ogf49X&uxId=com.nike.commerce.omega.ios.2.111&view=none&locale=fr_FR&backendEnvironment=identity&corsOverride=https://unite.nike.com&osVersion=14.6
+Content-Length: 170
+Connection: keep-alive
+Cookie: _abck=256F606B98C0C0C10406D828049130CE~-1~YAAQTG04FzzmX4t5AQAA1jpBwwVC0myHqsITC6tiJ1ldIdceTzVWlup9CnILtYh2w7zsop1Zuchwc3Ht7g4Ex4+Lnabye9JW6lI56ziyQmn8O58xFzW0EITleuZwKmz/zccC/WeqnQgkD6fRRArkIl0iZfqg5wMaf/DHe9o5haKt0qSGBXfhlyC9GbhsTQA0yuijYgKmTzd/JviPk+dwHSipWuKybkjgCTgqmKNo/SP9CPkaz6O/9u+h7WgHb9A5x+7Kd4pRCkhH6SuheUTVibC1QDMwh4AzcdrQRAI/ttOHz3bOz1iZtmbcNAH/GwQnns9eZkE/hbqM7lBXVNlCmOil48GTVw2SsYXeaGUM/sU8Zh0IBRZfFFwhY3uyduGv8QsfKUQAdg==~-1~-1~-1; AMCVS_F0935E09512D2C270A490D4D%40AdobeOrg=1; AMCV_F0935E09512D2C270A490D4D%40AdobeOrg=1994364360%7CMCMID%7C92143025234982056258468582176422874574%7CMCAID%7CNONE%7CMCOPTOUT-1622485692s%7CNONE%7CvVersion%7C3.4.0; bm_sv=88C37551630EDA3B8E77DD2D69EF4DDC~XDPmFFnB6Nosw25JXQDWF70Wvp/GbDhiqGbR2+9R8zxx+nIu43ZvYHGz8YCAHC85PURwhWM2+yNn6FXUYmqza2QkSN4iFLP/b88KQLRyIQo++CDEkB4Sq4SYLvR15b/488Bi1GLPZsleSwoRIwGhDA==; s_ecid=MCMID%7C92143025234982056258468582176422874574; ak_bmsc_nke-2.2=0QSG0Mu4SHwgorKttm2BJOTHfiPxGbMubjaytmBwvyHKHh0nNZDxyNCYJVL8UCluL39iztlseoDLa7vbIhERiT8UfPAwt8cY3wAAeKFI3ZaduAJFf3JVFiyLti0DDXamdHjCP2rTeLPtRQrPcstgtlNVP; ak_bmsc_nke-2.2-ssn=0QSG0Mu4SHwgorKttm2BJOTHfiPxGbMubjaytmBwvyHKHh0nNZDxyNCYJVL8UCluL39iztlseoDLa7vbIhERiT8UfPAwt8cY3wAAeKFI3ZaduAJFf3JVFiyLti0DDXamdHjCP2rTeLPtRQrPcstgtlNVP; ak_bmsc=0208D14C6E0EECE5E7E621B6ECF2472717386D4CD06800009A0EB56079868A09~plc9dYzhhB/AHgjQbQnCKbnxAJ1CZXKHSOdSeqMPTJUlxPxnbKzOaXWI00ouvCJzmBRqsws762hwfUh1/IOL6XHh7z0K2RJy7M32GOzHhDrNBcPej9ilYVllda0Di9nbGy/rLdodSeDh98xJz9Sj036nDWs3odgGoQzaB1CY7ry0GMm1x35u0c83BiiH9a/hdCOJPYDcQ+LaV47iL1LkcNdEoM3lJYaTarwcuUMrRLxCDKaiqOwH16QFQ5Ra+ey/7v; geoloc=cc=FR,rc=IDF,tp=vhigh,tz=GMT+1,la=48.87,lo=2.33; bm_sz=DB7540B70331B638655314CB5C24BD61~YAAQPW04F6Sf7ml5AQAAbv9AwwvF9NOGCRQ3JWsoEsseetcASvPTPtX9DJuT/RSeWcEoDPq07VEaL98AMBd8Z6wbkqIONFIw4PMEoLtHpTAd0xNnHPeHJMH04s5GIpNztCFlz5O2DcRX8L9ELyakHcXPhm32ypVXHHt45h1R7qK45Ch4gGTT0qmcPHvIqM9b/dES5y9UDNJgTJi7yk+9IrB8wSbORPc3QCxqgmdXNaPiYVRFyTECc0gAZXJrUeMndFmGBpUfwC8wkWQ=
